@@ -1,6 +1,6 @@
 // Ran Duan
 // Class ID: 228
-// CSE 360 Assignment #1
+// CSE 360 Assignment #2
 // Description: This class is to create the class SimpleList. Create and change 10 integer numbers in an array list.
 
 public class SimpleList 
